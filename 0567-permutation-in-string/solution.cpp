@@ -1,17 +1,40 @@
 class Solution {
 public:
-    bool checkInclusion(string s1, string s2) {
-        if (s1.size() > s2.size()) return false;
-        vector<int> s1_count(26, 0), s2_count(26, 0);
-        for (char c : s1) s1_count[c - 'a']++;
-        for (int i = 0; i < s1.size(); i++) s2_count[s2[i] - 'a']++;
-        if (s1_count == s2_count) return true;
-        for (int i = s1.size(); i < s2.size(); i++) {
-            s2_count[s2[i] - 'a']++;
-            s2_count[s2[i - s1.size()] - 'a']--;
-            if (s1_count == s2_count) return true;
+    bool isfreqsame(int freq1[], int freq2[]) {
+        for (int i = 0; i < 26; i++) {
+            if (freq1[i] != freq2[i]) {
+                return false;
+            }
         }
-        return false;
+        return true;
+    }
+
+    bool checkInclusion(string s1, string s2) {
+        int freq[26] = {0};
+
+        for (int i = 0; i < s1.length(); i++) {
+            freq[s1[i] - 'a']++;
+        }
+
+        int windsize = s1.length();
+
+        for (int i = 0; i < s2.length(); i++) {
+            int windidx = 0;
+            int idx = i;
+            int windfreq[26] = {0};
+
+            while (windidx < windsize && idx < s2.length()) {
+                windfreq[s2[idx] - 'a']++;
+                windidx++;
+                idx++;
+            }
+
+            if (isfreqsame(freq, windfreq)) {
+                return true;
+            }
+        }
+
+        return false; 
     }
 };
 
