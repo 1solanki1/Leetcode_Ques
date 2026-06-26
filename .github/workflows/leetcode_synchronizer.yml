@@ -1,8 +1,12 @@
 name: LeetCode Synchronizer
-on: workflow_dispatch
+
+on:
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Run LeetCode Synchronizer
         uses: dos-m0nk3y/LeetCode-Synchronizer@v1.1.0
