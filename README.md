@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/1solanki1/Leetcode_Ques/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/1solanki1/Leetcode_Ques/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
