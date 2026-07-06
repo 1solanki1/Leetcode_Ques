@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/1solanki1/Leetcode_Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
