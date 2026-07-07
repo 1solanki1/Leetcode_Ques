@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -52,8 +53,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
