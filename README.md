@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## String
 |  |
 | ------- |
