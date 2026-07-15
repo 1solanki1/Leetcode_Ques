@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/1solanki1/Leetcode_Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/1solanki1/Leetcode_Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
