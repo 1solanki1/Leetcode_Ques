@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
