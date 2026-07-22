@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 ## Stack
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1solanki1/Leetcode_Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
