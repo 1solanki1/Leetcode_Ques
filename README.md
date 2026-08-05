@@ -151,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
