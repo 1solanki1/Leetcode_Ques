@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 ## Stack
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/1solanki1/Leetcode_Ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/1solanki1/Leetcode_Ques/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
