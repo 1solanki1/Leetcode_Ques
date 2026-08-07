@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/1solanki1/Leetcode_Ques/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
