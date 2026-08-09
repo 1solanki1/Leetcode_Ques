@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1solanki1/Leetcode_Ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/1solanki1/Leetcode_Ques/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
