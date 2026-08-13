@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/1solanki1/Leetcode_Ques/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
