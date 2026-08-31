@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
@@ -194,15 +196,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
