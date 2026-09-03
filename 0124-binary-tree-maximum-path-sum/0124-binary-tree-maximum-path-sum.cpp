@@ -20,7 +20,7 @@ public:
     int a(TreeNode * root,int &maxi){
         if(!root)return 0;
         int l=  max(0, a(root->left,maxi));
-        int r=  max(0, a(root->right,maxi));
+        int r=  max(0,a(root->right,maxi));
         maxi=max(maxi,l+r+root->val);
 
 return max(r,l)+root->val;
