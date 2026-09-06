@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/1solanki1/Leetcode_Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/1solanki1/Leetcode_Ques/tree/master/0622-design-circular-queue) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/1solanki1/Leetcode_Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 ## Design
