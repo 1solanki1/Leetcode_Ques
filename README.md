@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/1solanki1/Leetcode_Ques/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -200,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1solanki1/Leetcode_Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0543-diameter-of-binary-tree) |
