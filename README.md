@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
 | [3903-smallest-stable-index-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
+| [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
 ## Tree
 |  |
 | ------- |
