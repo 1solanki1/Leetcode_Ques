@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
