@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1solanki1/Leetcode_Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
 ## Tree
