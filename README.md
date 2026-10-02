@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/1solanki1/Leetcode_Ques/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/1solanki1/Leetcode_Ques/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/1solanki1/Leetcode_Ques/tree/master/1046-last-stone-weight) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/1solanki1/Leetcode_Ques/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/1solanki1/Leetcode_Ques/tree/master/0860-lemonade-change) |
 ## Counting Sort
 |  |
 | ------- |
