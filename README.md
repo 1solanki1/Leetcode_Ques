@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1solanki1/Leetcode_Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
