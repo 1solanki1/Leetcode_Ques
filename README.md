@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/1solanki1/Leetcode_Ques/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/1solanki1/Leetcode_Ques/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/1solanki1/Leetcode_Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/1solanki1/Leetcode_Ques/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/1solanki1/Leetcode_Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
