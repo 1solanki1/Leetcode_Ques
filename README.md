@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/1solanki1/Leetcode_Ques/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/1solanki1/Leetcode_Ques/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -269,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
