@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/1solanki1/Leetcode_Ques/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
