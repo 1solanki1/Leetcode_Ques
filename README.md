@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/1solanki1/Leetcode_Ques/tree/master/0038-count-and-say) |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/0525-contiguous-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
@@ -274,4 +277,24 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1solanki1/Leetcode_Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/1solanki1/Leetcode_Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
