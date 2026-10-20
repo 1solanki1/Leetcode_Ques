@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/1solanki1/Leetcode_Ques/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Queue
 |  |
 | ------- |
