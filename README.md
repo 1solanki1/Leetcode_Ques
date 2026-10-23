@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/1solanki1/Leetcode_Ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/1solanki1/Leetcode_Ques/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/1solanki1/Leetcode_Ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Rolling Hash
 |  |
 | ------- |
