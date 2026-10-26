@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/1solanki1/Leetcode_Ques/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/1solanki1/Leetcode_Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/1solanki1/Leetcode_Ques/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 ## Design
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/1solanki1/Leetcode_Ques/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/1solanki1/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/1solanki1/Leetcode_Ques/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1solanki1/Leetcode_Ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Rolling Hash
 |  |
