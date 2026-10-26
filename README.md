@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/1solanki1/Leetcode_Ques/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/1solanki1/Leetcode_Ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1solanki1/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/1solanki1/Leetcode_Ques/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/1solanki1/Leetcode_Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1solanki1/Leetcode_Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/1solanki1/Leetcode_Ques/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/1solanki1/Leetcode_Ques/tree/master/0392-is-subsequence) |
