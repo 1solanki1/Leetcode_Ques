@@ -315,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1solanki1/Leetcode_Ques/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/1solanki1/Leetcode_Ques/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
