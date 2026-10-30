@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/1solanki1/Leetcode_Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/1solanki1/Leetcode_Ques/tree/master/1652-defuse-the-bomb) |
+| [2661-first-completely-painted-row-or-column](https://github.com/1solanki1/Leetcode_Ques/tree/master/2661-first-completely-painted-row-or-column) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1solanki1/Leetcode_Ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/1solanki1/Leetcode_Ques/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/1solanki1/Leetcode_Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/1solanki1/Leetcode_Ques/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/1solanki1/Leetcode_Ques/tree/master/0992-subarrays-with-k-different-integers) |
+| [2661-first-completely-painted-row-or-column](https://github.com/1solanki1/Leetcode_Ques/tree/master/2661-first-completely-painted-row-or-column) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1solanki1/Leetcode_Ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Queue
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/1solanki1/Leetcode_Ques/tree/master/1260-shift-2d-grid) |
+| [2661-first-completely-painted-row-or-column](https://github.com/1solanki1/Leetcode_Ques/tree/master/2661-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
 | ------- |
