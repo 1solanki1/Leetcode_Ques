@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/1solanki1/Leetcode_Ques/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/1solanki1/Leetcode_Ques/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/1solanki1/Leetcode_Ques/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/1solanki1/Leetcode_Ques/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/1solanki1/Leetcode_Ques/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1solanki1/Leetcode_Ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
